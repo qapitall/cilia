@@ -22,7 +22,7 @@ kullanıcıya görsel olarak aranan ya da bulunulan konumun gösterilme işlemi 
 
 <p>
 Database den verilerin çekilmesi yani konum bilgileri kullanılarak o bölgedeki hastalıkların ve hastalıkların sayısının bulunması 
-işlemi ise <b>veriCek()</b> methoduyla sağlanmıştır.<i>Projede <b>Real Time Database</b>kullanılmıştır.</i> 
+işlemi ise <b>veriCek()</b> methoduyla sağlanmıştır.<i>Projede <b>Real Time Database</b> kullanılmıştır.</i> 
 </p>
 <p>
 <b>veriCek()</b> methodu içerisinde yer alan <b>onDataChange()</b> methodu ile database den sürekli bir dinleme olmaktadır.
