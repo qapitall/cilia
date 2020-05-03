@@ -1,5 +1,7 @@
 # cilia
 
+<p>Projenin masaüstü kısmı için <a href="https://github.com/qapitall/doktorApp">tıklayın</a>.</p>
+
 <p>Yapılan proje database'den alınan bilgiler ile kullanıcının bulunduğu konumda ya da 
 kulanıcının girdiği herhangi bir konumda bulunan hastalıkların dağılımları belirlenmektedir.</p>
 
